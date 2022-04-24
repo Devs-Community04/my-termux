@@ -2,7 +2,7 @@
 Termux Basic pkg, pip, style &amp; kali setup tool.
 
 
-## INSTALL AND UAE
+## INSTALL AND USE
 
 ````
 pkg up -y
