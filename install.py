@@ -22,7 +22,7 @@ def update ():
   
 def bpkg ():
   logo ()
-  os.system("pkg i git python python2 php ruby rust openssl openssh wget curl nano unzip tar zip bash clang namp figlet toilet zsh -y")
+  os.system("pkg i git python python2 php ruby rust openssl openssh wget curl nano unzip tar zip bash clang figlet toilet zsh -y")
 def pip ():
   logo ()
   os.system("pip install bs4 requests mechanize lolcat myspeed; pip2 install requests bs4 lolcat mechanize")
